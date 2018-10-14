@@ -1,6 +1,7 @@
 # Credit-Analysis---Machine-Learning
-The following project aims to predict the eligibility of loan applicants for credit using several machine learning algorithms. The algorithms are assessed based on (i) Accuracy Score (2) Confusion Matrix
+The following project aims to predict the eligibility of loan applicants for credit using several machine learning algorithms. The algorithms are assessed based on (i) Accuracy Score (2) Confusion Matrix to select the best algorithm for building a predictive model
 
+**Algorithms Used**
 a) Logistic Regression
 b) Decision Tree
 c) Random Forest 
@@ -9,7 +10,7 @@ e) Naive Bayes
 f) k - Nearest Neighbors
 g) Gradient Boosting
 
-#Data Attributes
+**Data Attributes**
 1.Loan_ID
 2.Gender
 3.Married
