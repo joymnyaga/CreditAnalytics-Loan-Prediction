@@ -8,7 +8,7 @@ c) Random Forest
 d) Support Vector Machine
 e) Naive Bayes
 f) k - Nearest Neighbors
-g) Gradient Boosting
+g) Gradient Boosting Machine
 
 **Data Attributes**
 1.Loan_ID
