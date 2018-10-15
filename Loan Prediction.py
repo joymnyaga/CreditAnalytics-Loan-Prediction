@@ -183,7 +183,7 @@ print(matrix6)
 #Support Vector Machine - 64.23%
 #k-Nearest Neighbors(kNN) - 64.23%
 
-#Predict values using test data (Logistic Regression)
+#Predict values using test data (Naive Bayes)
 pred_test=nb.predict(test)
 
 #Write results in csv file
