@@ -186,6 +186,6 @@ print(matrix6)
 #Predict values using test data (Naive Bayes)
 pred_test=nb.predict(test)
 
-#Write results in csv file
+#Write test results in csv file
 predictions=pd.DataFrame(pred_test, columns=['predictions']).to_csv('Credit_Predictions.csv')
 
