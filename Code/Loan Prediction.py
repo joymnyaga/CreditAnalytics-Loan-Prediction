@@ -1,8 +1,8 @@
 1# -*- coding: utf-8 -*-
 """
 Spyder Editor
+Author: Joy M. Nyaga
 
-This is a temporary script file.
 """
 #(1)LOADING DATA
 #Import libraries
