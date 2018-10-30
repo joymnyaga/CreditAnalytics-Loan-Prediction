@@ -2,7 +2,6 @@
 """
 Spyder Editor
 Author: Joy M. Nyaga
-
 """
 #(1)LOADING DATA
 #Import libraries
